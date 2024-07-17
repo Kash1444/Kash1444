@@ -16,9 +16,9 @@ I love to explore new technologies and continuously improve my skills through ha
 * Other Tools: Docker
 
 = Get in Touch
-LinkedIn: https://www.linkedin.com/in/prakashcodes/
-Reddit: https://www.reddit.com/user/DharmaprakashYT/
-Email: dharmaprakash144@gmail.com
+* LinkedIn: https://www.linkedin.com/in/prakashcodes/
+* Reddit: https://www.reddit.com/user/DharmaprakashYT/
+* Email: dharmaprakash144@gmail.com
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
