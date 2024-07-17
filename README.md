@@ -15,6 +15,10 @@ I love to explore new technologies and continuously improve my skills through ha
 * Version Control: Git, GitHub
 * Other Tools: Docker
 
+  
+Education
+KCG College Of Technology: Bachelor of Science in Computer Science (Expected Graduation: 2027)
+
 = Get in Touch
 * LinkedIn: https://www.linkedin.com/in/prakashcodes/
 * Reddit: https://www.reddit.com/user/DharmaprakashYT/
@@ -22,9 +26,6 @@ I love to explore new technologies and continuously improve my skills through ha
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me!
 
-
-Education
-KCG College Of Technology: Bachelor of Science in Computer Science (Expected Graduation: 2027)
 <!---
 Kash1444/Kash1444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
