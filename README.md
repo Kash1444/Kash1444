@@ -5,17 +5,7 @@ I have a deep interest in
 - software development
 - data science
 - artificial intelligence
-I love to explore new technologies and continuously improve my skills through hands-on projects and collaboration.
 
-= Skills & Interests
-* Programming Languages: Python, C, JavaScript
-* Web Development: HTML, Node.js
-* Data Science: Pandas, NumPy, Scikit-Learn, TensorFlow
-* Database Management: SQL, MongoDB
-* Version Control: Git, GitHub
-* Other Tools: Docker
-
-  
 Education
 KCG College Of Technology: Bachelor of Science in Computer Science (Expected Graduation: 2027)
 
