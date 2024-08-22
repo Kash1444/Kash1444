@@ -23,11 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dharmap83769263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharmap83769263" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dharmaprakash yogaraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharmaprakash yogaraja" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prakashcodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dharmaprakash Yogaraja" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22183291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22183291" height="30" width="40" /></a>
 <a href="https://kaggle.com/dharmaprakash4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dharmaprakash4" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_different144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_different144" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@kashhnotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kashhnotfound" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@kashhnotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kashhnotfound" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dharmaprakash144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharmaprakash144" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kash_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kash_144" height="30" width="40" /></a>
 </p>
