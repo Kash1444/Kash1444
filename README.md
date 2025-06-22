@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/dharmap83769263" target="blank"><img src="https://img.shields.io/twitter/follow/dharmap83769263?logo=twitter&style=for-the-badge" alt="dharmap83769263" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/RkCiLT8fUW9vMPXA5J.webp">
-- 🔭 I’m currently working on **WILDTRACK-Mitigating mechanism for human-wildlife conflict**
+- 🔭 I’m currently working on a project for free notes source for engineers
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Neural Network**
 
-- 👯 I’m looking to collaborate on **Application Development**
+- 👯 I’m looking to collaborate on **real world projects**
 
 - 💬 Ask me about **Python, MongoDB, MySQL**
 
