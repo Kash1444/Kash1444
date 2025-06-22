@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="MasterHead" width="1000" height="500">
 <h1 align="center">Hi 👋👨‍💻, I'm Kash </h1>
-<h3 align="center">A passionate Computer Science student currently studying at KCG College Of Technology.</h3>
+<h3 align="center">A passionate Computer Science student with a keen interest in ML.</h3>
 
 
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/dharmap83769263" target="blank"><img src="https://img.shields.io/twitter/follow/dharmap83769263?logo=twitter&style=for-the-badge" alt="dharmap83769263" /></a> </p>
 <img align="right" alt="Coding" width="300" src="https://i.giphy.com/RkCiLT8fUW9vMPXA5J.webp">
-- 🔭 I’m currently working on **WILDTRACK-Mitigating mechanism for human-wildlife conflict**
+- 🔭 I’m currently working on **Back end development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Neural networks**
 
-- 👯 I’m looking to collaborate on **Application Development**
+- 👯 I’m looking to collaborate on **Engineering-Notes-Hub**
 
 - 💬 Ask me about **Python, MongoDB, MySQL**
 
