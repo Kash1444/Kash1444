@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Hey, I'm Kash</h1>
-
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
-## About Me
+<h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Hey, I'm Kash</h1>
+
+
 - I'm a Computer Science undergraduate specializing in AI & Data Science at KCG College of Technology, Chennai.
 - I enjoy building practical AI-powered applications and backend systems that solve real-world problems. My work spans Machine Learning, Generative AI, backend development, REST APIs, RAG systems, and IoT, with a strong focus on turning ideas into working products.
 - Currently, I'm focused on strengthening my Data Structures & Algorithms, Python, Machine Learning, FastAPI, databases, and system development skills while building projects that combine software, AI, and real-world data.
