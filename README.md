@@ -1,11 +1,4 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> Hey, I'm Kash</h1>
-<h3 align="center">AI/ML Trainee</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Kash1444">
-    <img src="https://komarev.com/ghpvc/?username=Kash1444&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kash1444's profile views" />
-  </a>
-</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
